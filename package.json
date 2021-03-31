@@ -1,0 +1,30 @@
+{
+  "name": "var-names",
+  "version": "0.0.0",
+  "description": "Functions for Working with Variable Names",
+  "main": "var-names.js",
+  "scripts": {
+    "format": "npx prettier --write *.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielJDufour/var-names.git"
+  },
+  "keywords": [
+    "create",
+    "make",
+    "names",
+    "var",
+    "variables"
+  ],
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/DanielJDufour/var-names/issues"
+  },
+  "homepage": "https://github.com/DanielJDufour/var-names#readme",
+  "devDependencies": {
+    "flug": "^0.0.0"
+  }
+}
