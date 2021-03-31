@@ -1,7 +1,7 @@
 {
   "name": "var-names",
   "version": "0.0.0",
-  "description": "Functions for Working with Variable Names",
+  "description": "Generate Variable Names",
   "main": "var-names.js",
   "scripts": {
     "format": "npx prettier --write *.js",
