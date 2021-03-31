@@ -24,7 +24,7 @@ for (const varname of gen) {
 // create the generator
 const gen = genVarNames({
   chars: ['A', 'B', 'C', ... 'a', 'b'], // character set to choose from, default to English alphabet in upper then lower case
-  debug = false, // set to true for increased logging
-  max_count = 1000000, // maximum number of iterations, defaults to 1 million
+  debug: false, // set to true for increased logging
+  max_count: 1000000, // maximum number of iterations, defaults to 1 million
 });
 ```
